@@ -1,0 +1,17 @@
+{
+  "spec_version": 1,
+  "name": "FLEET Flags",
+  "identifier": "FLEETFlags",
+  "author": "ToxicFrog et al",
+  "abstract": "Flags created by, and for, members of FLEET.",
+  "license": "GPL-3.0",
+  "release_status": "stable",
+  "install": [
+    {
+      "file": "GameData/FLEET",
+      "install_to": "GameData"
+    }
+  ],
+  "version": "1.0",
+  "download": "file:///orias/installs/games/PC/KSP/FLEETFlags.zip",
+}
