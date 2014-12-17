@@ -1,0 +1,18 @@
+{
+  "spec_version": 1,
+  "identifier": "TACSD",
+  "name": "TAC Self Destruct",
+  "abstract": "Adds a self destruct charge.",
+  "license": "CC-BY-NC-SA-3.0",
+  "ksp_version": "0.90",
+  "release_status": "stable",
+  "install": [
+    {
+      "file": "GameData/TacSelfDestruct",
+      "install_to": "GameData",
+    }
+  ],
+  "author": "taraniselsu",
+  "version": "v1.4.0",
+  "download": "https://www.dropbox.com/sh/3emtoeyky6c3w8v/AADPz8sySPYkvud_vUmY9u8Ya/TacSelfDestruct_1.4.0.1002.zip?dl=1",
+}
